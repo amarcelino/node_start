@@ -1,0 +1,24 @@
+{
+  "name": "node-start",
+  "version": "1.0.0",
+  "description": "Modelo Nojs MVC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarcelino/node_start.git"
+  },
+  "keywords": [
+    "Node",
+    "MVC",
+    "CRUD"
+  ],
+  "author": "André Fauze Marcelino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarcelino/node_start/issues"
+  },
+  "homepage": "https://github.com/amarcelino/node_start#readme"
+}
